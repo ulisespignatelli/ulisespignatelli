@@ -7,7 +7,7 @@
 *  Me interesa la **Programación** y la **Seguridad informática**
 *  Actualmente estoy aprendiendo desarrrollo web, frameworks, seguridad informática y muchos mas
 *  ¿Cómo contactarme? Si te gustan mis repos, puedes contactarme por _**[e-mail](mailto:pignatelli.ulises15@gmail.com)**_ o _**[linkedin](https://www.linkedin.com/in/ulises-pignatelli/)**_
-*  Tecnologías que manejo
+<!--*  Tecnologías que manejo
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-0D1117?logo=html5&logoColor=E34F26&style=plastic"/>
   <img alt="CSS" src="https://img.shields.io/badge/-CSS3-0D1117?logo=css3&logoColor=0769AD&style=plastic"/>
@@ -21,7 +21,7 @@
   <img alt="VSCode" src="https://img.shields.io/badge/-VScode-0D1117?logo=visual-studio-code&logoColor=23A7F2&style=plastic"/>
   <img alt="VMware" src="https://img.shields.io/badge/-VMware-0D1117?logo=VMware&logoColor=ffffff&style=plastic"/>
 </p>
-
+-->
 
  ## 📊 Github stats
 
