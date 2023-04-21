@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ulisespignatelli" alt="Lissen01" /> </p>
 
-<h3 align="left">Soy estudiante de ingeniería en sistemas informáticos y desarrollador autodidacta enfocado en el stack MERN. Aprendiendo constantemente sobre ciberseguridad💻 y Blockchain</h3>
+<h3 align="left">Actualmente me desempeño como Systems and Security Administrator. Soy estudiante avanzado de ingeniería en sistemas informáticos. Aprendiendo constantemente sobre ciberseguridad💻 y me interesa el mundo del backend</h3>
 
 *  Me interesa la **Programación** y la **Seguridad informática**
 *  ¿Cómo contactarme? Si te gustan mis repos, puedes contactarme por _**[e-mail](mailto:pignatelli.ulises15@gmail.com)**_ o _**[linkedin](https://www.linkedin.com/in/ulises-pignatelli/)**_
