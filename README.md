@@ -5,7 +5,6 @@
 <h3 align="left">Soy estudiante de ingeniería en sistemas informáticos y desarrollador autodidacta enfocado en el stack MERN. Aprendiendo constantemente sobre ciberseguridad💻 y Blockchain</h3>
 
 *  Me interesa la **Programación** y la **Seguridad informática**
-*  Actualmente estoy aprendiendo desarrrollo web, frameworks, seguridad informática y muchos mas
 *  ¿Cómo contactarme? Si te gustan mis repos, puedes contactarme por _**[e-mail](mailto:pignatelli.ulises15@gmail.com)**_ o _**[linkedin](https://www.linkedin.com/in/ulises-pignatelli/)**_
 <!--*  Tecnologías que manejo
 <p>
