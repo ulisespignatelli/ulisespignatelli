@@ -10,21 +10,9 @@
 
  ## 📊 Github stats
 <p align="left">
-  <a href="https://github.com/ulisespignatelli"><img width="400" src="https://github-readme-stats.vercel.app/api?username=ulisespignatelli&show_icons=true&theme=gruvbox">
-  <a href="https://github.com/ulisespignatelli"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ulisespignatelli&hide=html,scss,css,shell&langs_count=10&layout=compact&theme=gruvbox">
   <a href="https://github.com/ulisespignatelli"><img width="800" src="https://github-profile-trophy.vercel.app/?username=ulisespignatelli&row=1&column=5&theme=gruvbox">
 </p>
-    
-<!--## My repos
-    
-<p align="left">
-  
-   <a href="https://github.com/eichenbergerche/bot-ivational"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=eichenbergerche&repo=bot-ivational&langs_count=5&theme=gruvbox">
-  <a href="https://github.com/eichenbergerche/PythonCousera"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=eichenbergerche&card_height=300&&repo=PythonCousera&langs_count=5&layout=compact&theme=gruvbox">
-  <a href="https://github.com/eichenbergerche/todo-list"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=eichenbergerche&repo=todo-list&layout=compact&theme=gruvbox">
-  <a href="https://github.com/eichenbergerche/github-readme-stats-tuto"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=eichenbergerche&repo=github-readme-stats-tuto&hide=html,scss,css&langs_count=10&layout=compact&theme=gruvbox">
-</p> --> 
-    
+     
 <!-- ## My Works
    
 <a href=https://envolvedorasyservicios.com.ar/inicio><img align="left" width="400" src="https://github.com/eichenbergerche/websites/blob/main/envolvedoras.png">
