@@ -8,6 +8,15 @@
 * Aprendiendo constantemente sobre ciberseguridad💻 y me interesa el mundo del backend
 * ¿Cómo contactarme? Si te gustan mis repos, puedes contactarme por _**[e-mail](mailto:pignatelli.ulises15@gmail.com)**_ o _**[linkedin](https://www.linkedin.com/in/ulises-pignatelli/)**_
 
+## My GitHub stats
+
+<p align="center">
+  <a href="https://github.com/manuelduarte077">
+   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ulisespignatelli&show_icons=true&theme=buefy&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ulisespignatelli&layout=compact&langs_count=8&theme=buefy&count_private=true"/>
+  </a>  
+</p>
+
  ## 📊 Github stats
 <p align="left">
   <a href="https://github.com/ulisespignatelli"><img width="800" src="https://github-profile-trophy.vercel.app/?username=ulisespignatelli&row=1&column=5&theme=gruvbox">
