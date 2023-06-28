@@ -25,7 +25,7 @@
 <!-- ## My Works
    
 <a href=https://envolvedorasyservicios.com.ar/inicio><img align="left" width="400" src="https://github.com/eichenbergerche/websites/blob/main/envolvedoras.png">
-<a href=https://www.litoralpack.com.ar/><img align="left" width="400" src="https://github.com/eichenbergerche/websites/blob/main/litoralPack.png"> -->
+<a href=https://www.litoralpack.com.ar/><img align="left" width="400" src="https://github.com/eichenbergerche/websites/blob/main/litoralPack.png"> 
 
 ## Tecnologías que manejo
 <p>
@@ -41,7 +41,7 @@
   <img alt="VSCode" src="https://img.shields.io/badge/-VScode-0D1117?logo=visual-studio-code&logoColor=23A7F2&style=plastic"/>
   <img alt="VMware" src="https://img.shields.io/badge/-VMware-0D1117?logo=VMware&logoColor=ffffff&style=plastic"/>
 </p>
-
+-->
   <p align="center">
    <img  alt="GIF" src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif" width="350" height="250" />
    <img  src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="350" height="250">
