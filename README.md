@@ -2,46 +2,36 @@
 # ```Hola! Soy Ulises Pignatelli.```
 
 
-
 * Actualmente me desempeño como Systems and Security Administrator
 * Soy estudiante avanzado de ingeniería en sistemas informáticos. 
 * Aprendiendo constantemente sobre ciberseguridad💻 y me interesa el mundo del backend
 * ¿Cómo contactarme? Si te gustan mis repos, puedes contactarme por _**[e-mail](mailto:pignatelli.ulises15@gmail.com)**_ o _**[linkedin](https://www.linkedin.com/in/ulises-pignatelli/)**_
 
-## My GitHub stats
-
-<p align="center">
-  <a href="https://github.com/manuelduarte077">
-   <img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ulisespignatelli&show_icons=true&theme=buefy&count_private=true"/>
-    <img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ulisespignatelli&layout=compact&langs_count=8&theme=buefy&count_private=true"/>
-  </a>  
-</p>
-
- ## 📊 Github stats
-<p align="left">
-  <a href="https://github.com/ulisespignatelli"><img width="800" src="https://github-profile-trophy.vercel.app/?username=ulisespignatelli&row=1&column=5&theme=gruvbox">
-</p>
      
-<!-- ## My Works
-   
-<a href=https://envolvedorasyservicios.com.ar/inicio><img align="left" width="400" src="https://github.com/eichenbergerche/websites/blob/main/envolvedoras.png">
-<a href=https://www.litoralpack.com.ar/><img align="left" width="400" src="https://github.com/eichenbergerche/websites/blob/main/litoralPack.png"> 
-
-## Tecnologías que manejo
-<p>
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-0D1117?logo=html5&logoColor=E34F26&style=plastic"/>
-  <img alt="CSS" src="https://img.shields.io/badge/-CSS3-0D1117?logo=css3&logoColor=0769AD&style=plastic"/>
-  <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-0D1117?logo=javascript&logoColor=F7DF1E&style=plastic"/>
-  <img alt="ReactJS" src="https://img.shields.io/badge/-ReactJS-0D1117?logo=react&logoColor=61DAFB&style=plastic"/>
-  <img alt="NodeJs" src="https://img.shields.io/badge/-NodeJS-0D1117?logo=Node.js&logoColor=339933&style=plastic"/>
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-0D1117?logo=MySQL&logoColor=blue&style=plastic"/>
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDb-0D1117?logo=MongoDB&logoColor=47A248&style=plastic"/>
-  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-0D1117?logo=github&logoColor=white&style=plastic"/>
-  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-0D1117?logo=Heroku&logoColor=430098&style=plastic"/>
-  <img alt="VSCode" src="https://img.shields.io/badge/-VScode-0D1117?logo=visual-studio-code&logoColor=23A7F2&style=plastic"/>
-  <img alt="VMware" src="https://img.shields.io/badge/-VMware-0D1117?logo=VMware&logoColor=ffffff&style=plastic"/>
+<!-- Social icons section -->
+<p align="center">
+<br/>
+<a href="https://www.linkedin.com/in/ulises-pignatelli/" title="LinkedIn" target="_blank">
+  <img alt="ulisespignatelli's LinkdeIN" width="50px" src="https://i.ibb.co/FqXgQYK/logotipo-de-linkedin.png" />
+</a>
+<a href="https://www.instagram.com/programadores_argentina/" title="Instagram Programadores Argentina Community" target="_blank">
+  <img alt="programadores_argentina's Instagram" width="50px" src="https://i.ibb.co/GHG7CHr/logotipo-de-instagram.png" />
+</a>
+<a href="https://dev.to/" title="Dev.to" target="_blank">
+  <img alt="ulisespignatelli's Dev" width="50px" src="https://i.imgur.com/mVm29vK.png" />
+</a>
+ 
+<br>
 </p>
--->
+
+<br/>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="ulisespignatelli's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=ulisespignatelli&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ulisespignatelli&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+</p>
+<br/>
+<br/>
+<br/>
   <p align="center">
    <img  alt="GIF" src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif" width="350" height="250" />
    <img  src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="350" height="250">
