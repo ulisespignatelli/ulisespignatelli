@@ -9,7 +9,7 @@
 
      
 <!-- Social icons section -->
-<p align="center">
+<p align="left">
 <br/>
 <a href="https://www.linkedin.com/in/ulises-pignatelli/" title="LinkedIn" target="_blank">
   <img alt="ulisespignatelli's LinkdeIN" width="50px" src="https://i.ibb.co/FqXgQYK/logotipo-de-linkedin.png" />
@@ -17,10 +17,7 @@
 <a href="https://www.instagram.com/programadores_argentina/" title="Instagram Programadores Argentina Community" target="_blank">
   <img alt="programadores_argentina's Instagram" width="50px" src="https://i.ibb.co/GHG7CHr/logotipo-de-instagram.png" />
 </a>
-<a href="https://dev.to/" title="Dev.to" target="_blank">
-  <img alt="ulisespignatelli's Dev" width="50px" src="https://i.imgur.com/mVm29vK.png" />
-</a>
- 
+
 <br>
 </p>
 
