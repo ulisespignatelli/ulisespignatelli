@@ -2,9 +2,9 @@
 # ```Hola! Soy Ulises Pignatelli.```
 
 
-* Actualmente me desempeño como Analista SOC
+* Actualmente me desempeño como Sysadmin
 * Soy estudiante avanzado de ingeniería en sistemas informáticos. 
-* Aprendiendo constantemente sobre ciberseguridad💻 
+* Aprendiendo continuo sobre ciberseguridad / Blockchain💻 
 * ¿Cómo contactarme? Si te gustan mis repos, puedes contactarme por _**[e-mail](mailto:pignatelli.ulises15@gmail.com)**_ o _**[linkedin](https://www.linkedin.com/in/ulises-pignatelli/)**_
 
 <br/>
