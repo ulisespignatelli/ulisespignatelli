@@ -2,8 +2,8 @@
 # ```Hola! Soy Ulises Pignatelli.```
 
 
-* Actualmente me desempeño como SysAdmin Engineer & Fullstack Developer
-* Soy estudiante avanzado de ingeniería en sistemas informáticos. 
+* Actualmente me desempeño como Cybersecurity & Infrastructure Engineer 
+* Soy ingenierío en sistemas informáticos. 
 * Aprendiendo continuo sobre ciberseguridad 
 * ¿Cómo contactarme? Si te gustan mis repos, puedes contactarme por _**[e-mail](mailto:pignatelli.ulises15@gmail.com)**_ o _**[linkedin](https://www.linkedin.com/in/ulises-pignatelli/)**_
 
