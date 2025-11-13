@@ -4,8 +4,8 @@
 * Actualmente me desempeño como Especialista en Seguridad Informatica
 * Soy ingenierío en sistemas informáticos. 
 ### 🛠️ Tech Stack
-**Cloud:** AWS, Kubernetes, Docker, Terraform, Ansible
-**Security:** DevSecOps, Infrastructure Security, Compliance
+**Cloud:** AWS, Kubernetes, Docker, Terraform, Ansible<br/>
+**Security:** DevSecOps, Infrastructure Security, Compliance<br/>
 **Monitoring:** Prometheus, Grafana, ELK Stack
 
 ### 📈 GitHub Stats
