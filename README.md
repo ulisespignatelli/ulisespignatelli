@@ -20,7 +20,7 @@
 [![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=ulisespignatelli&show_icons=true)]()
 
 ### 🔗 Conecta conmigo
-[LinkedIn](https://linkedin.com/in/ulises-pignatelli) | [Email](mailto:tu@email.com)
+¿Cómo contactarme? Si te gustan mis repos, puedes contactarme por _**[e-mail](mailto:pignatelli.ulises15@gmail.com)**_ o _**[linkedin](https://www.linkedin.com/in/ulises-pignatelli/)**_
 <br/>
 <!--- <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="ulisespignatelli's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=ulisespignatelli&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="162px"/></a>
