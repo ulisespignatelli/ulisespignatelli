@@ -2,9 +2,9 @@
 # ```Hola! Soy Ulises Pignatelli.```
 
 
-* Actualmente me desempeño como Cybersecurity & Infrastructure Engineer 
+* Actualmente me desempeño como Especialista en Seguridad Informatica 
 * Soy ingenierío en sistemas informáticos. 
-* Aprendiendo continuo sobre ciberseguridad 
+* Aprendiendo continuo sobre ciberseguridad y DevOps
 * ¿Cómo contactarme? Si te gustan mis repos, puedes contactarme por _**[e-mail](mailto:pignatelli.ulises15@gmail.com)**_ o _**[linkedin](https://www.linkedin.com/in/ulises-pignatelli/)**_
 
 <br/>
