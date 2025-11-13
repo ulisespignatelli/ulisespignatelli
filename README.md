@@ -1,15 +1,20 @@
 # 👋 Hola, soy Ulises Pignatelli
 
-## DevOps Engineer | Security Specialist
+## DevOps Engineer | Security Specialist | Cloud Architect
 * Actualmente me desempeño como Especialista en Seguridad Informatica
 * Soy ingenierío en sistemas informáticos. 
 ### 🛠️ Tech Stack
-**Cloud:** AWS, Kubernetes, Docker, Terraform, Ansible<br/>
-**Security:** DevSecOps, Infrastructure Security, Compliance<br/>
-**Monitoring:** Prometheus, Grafana, ELK Stack
+**Cloud & Infrastructure:** <br/>
+`AWS` `Kubernetes` `Docker` `Terraform` `Ansible` `Prometheus` `Grafana`<br/>
+**Security & DevSecOps:**<br/>
+`DevSecOps` `Infrastructure Security` `Compliance` `Security Scanning` `OPA`<br/>
+**Monitoring & Observability:**<br/> 
+`ELK Stack` `Prometheus` `Grafana` `Alerting` `Zabbix`
 
 ### 📈 GitHub Stats
-[![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=ulisespignatelli&show_icons=true)]()
+![Ulises's GitHub stats](https://github-readme-stats.vercel.app/api?username=ulisespignatelli&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ulisespignatelli&layout=compact&theme=radical)
 
 ### 🔗 Conecta conmigo
 ¿Cómo contactarme? Si te gustan mis repos, puedes contactarme por _**[e-mail](mailto:pignatelli.ulises15@gmail.com)**_ o _**[linkedin](https://www.linkedin.com/in/ulises-pignatelli/)**_
@@ -18,7 +23,6 @@
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="ulisespignatelli's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=ulisespignatelli&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="162px"/></a>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ulisespignatelli&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="132px"/></a>
 </p>--->
-<br/>
 <br/>
 <br/>
   <p align="center">
