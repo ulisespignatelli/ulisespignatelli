@@ -1,8 +1,11 @@
 # 👋 Hola, soy Ulises Pignatelli
-
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ## DevOps Engineer | Security Specialist | Cloud Architect
 * Actualmente me desempeño como Especialista en Seguridad Informatica
-* Soy ingenierío en sistemas informáticos. 
+* Soy ingenierío en sistemas informáticos.
+
 ### 🛠️ Tech Stack
 **Cloud & Infrastructure:** <br/>
 `AWS` `Kubernetes` `Docker` `Terraform` `Ansible` `Prometheus` `Grafana`<br/>
@@ -11,10 +14,18 @@
 **Monitoring & Observability:**<br/> 
 `ELK Stack` `Prometheus` `Grafana` `Alerting` `Zabbix`
 
-### 📈 GitHub Stats
-![Ulises's GitHub stats](https://github-readme-stats.vercel.app/api?username=ulisespignatelli&show_icons=true&theme=radical)
+## 📊 GitHub Activity
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ulisespignatelli&layout=compact&theme=radical)
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=ulisespignatelli&show_icons=true&theme=dark&hide_border=true" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ulisespignatelli&layout=compact&theme=dark&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
 ### 🔗 Conecta conmigo
 ¿Cómo contactarme? Si te gustan mis repos, puedes contactarme por _**[e-mail](mailto:pignatelli.ulises15@gmail.com)**_ o _**[linkedin](https://www.linkedin.com/in/ulises-pignatelli/)**_
