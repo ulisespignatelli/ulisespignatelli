@@ -1,21 +1,45 @@
 # 👋 Hola, soy Ulises Pignatelli
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-## DevOps Engineer | Security Specialist | Cloud Architect
-* Actualmente me desempeño como Especialista en Seguridad Informatica
-* Soy ingenierío en sistemas informáticos.
+## SysAdmin Engineer | Security Specialist | Cybersecurity Engineer
+## 💻 Sobre Mí
+*🎓 Ingeniero en Sistemas Informáticos.<br/>
+*📚 Candidato a MSc in Computer Security (Maestría en Seguridad Informática) en TECH México.<br/>
+*⚡ Actualmente me desempeño como Cybersecurity Engineer en la Empresa Provincial de la Energía de Santa Fe (EPE), evolucionando desde mi rol previo como SysAdmin Engineer.<br/>
+*🛡️ Apasionado por el análisis de vulnerabilidades, auditorías de seguridad perimetral, arquitecturas de resiliencia y la automatización de procesos mediante Bash/Python.<br/>
 
-### 🛠️ Tech Stack
+
+<!--### 🛠️ Tech Stack
 **Cloud & Infrastructure:** <br/>
 `AWS` `Kubernetes` `Docker` `Terraform` `Ansible` `Prometheus` `Grafana`<br/>
 **Security & DevSecOps:**<br/>
 `DevSecOps` `Infrastructure Security` `Compliance` `Security Scanning` `OPA`<br/>
 **Monitoring & Observability:**<br/> 
-`ELK Stack` `Prometheus` `Grafana` `Alerting` `Zabbix`
+`ELK Stack` `Prometheus` `Grafana` `Alerting` `Zabbix`-->
+## 🏢 Professional Experience
+
+### Cybersecurity Engineer
+**Empresa provincial de la Energia de Santa Fe**  
+*Sept. 2025 - Present · Rosario, Argentina*
+
+⚡Realización de Penetration Testing en aplicaciones web de la empresa para identificar y explotar activamente vulnerabilidades bajo metodologías de hacking ético.<br/>
+⚡Investigación profunda de CVEs: análisis minucioso de explotabilidad, impacto en el negocio y desarrollo de recomendaciones de mitigación efectivas.<br/>
+⚡Clasificación, análisis (triage) y resolución de incidentes críticos originados en la consola EDR Trend Vision One.<br/>
+⚡Producción periódica de reportes técnicos de Threat Intelligence (Inteligencia de Amenazas) orientados a facilitar la toma de decisiones estratégicas.<br/>
+⚡Colaboración en la implementación de parches y robustecimiento defensivo basándose en los hallazgos ofensivos previos.<br/>
+
+---
+
+### SysAdmin Engineer 
+**Empresa Provincial de la Energia de Santa fe**  
+*Abr. 2022 - Ago. 2025 · Rosario, Argentina*
+
+🛡️Operaciones de SOC: Monitoreo continuo y análisis de eventos de seguridad con Trend Micro Vision One, orquestando la respuesta primaria ante intrusiones.<br/>
+🛡️Seguridad Perimetral: Administración de firewalls robustos Fortinet (FortiGate, FortiManager y FortiAnalyzer), controlando políticas IPS, VPN y bloqueos de IoC.<br/>
+🛡️Hardening y Automatización: Blindaje de servidores empresariales Linux mediante automatización avanzada con scripts personalizados de Bash y Python.<br/>
+🛡️Virtualización y Resiliencia: Gestión de entornos VMware, monitoreo inteligente con Zabbix y políticas de backup preventivas con Veeam Backup & Replication.<br/>
+
+---
 
 ## 📊 GitHub Activity
-
 <table align="center">
   <tr>
     <td align="center">
