@@ -1,0 +1,24 @@
+name: Update Streak Stats
+on:
+  schedule:
+    - cron: "0 0 * * *" # Se ejecuta todos los días a medianoche
+  workflow_dispatch: # Permite ejecutarlo manualmente desde la pestaña Actions
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: DenverCoder1/github-readme-streak-stats@v1
+        with:
+          user: ulisespignatelli
+          options: theme=dark&hide_border=true&background=0b0f17&ring=00d4a4&fire=00d4a4&currStreakLabel=00d4a4
+          path: profile/streak.svg
+      - name: Commit and Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/streak.svg
+          git commit -m "Update streak stats" || exit 0
+          git push
