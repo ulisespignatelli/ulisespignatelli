@@ -131,13 +131,19 @@ Ingeniero en Sistemas Informáticos especializado en **ciberseguridad**, con foc
 <!--<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ulisespignatelli&theme=dark&hide_border=true&background=0b0f17&ring=00d4a4&fire=00d4a4&currStreakLabel=00d4a4" alt="Streak"/>
 </p> -->
-<p align="center">
+<!-- <p align="center">
   <img src="./profile/streak.svg" alt="Streak"/>
 </p>
-<!-- <p align="center">
+<p align="center">
   <img src="https://img.shields.io/github/followers/ulisespignatelli?style=for-the-badge&logo=github&logoColor=white&color=00d4a4&labelColor=0b0f17" alt="Followers"/>
 </p> -->
-
+<p align="center">
+  <img src="./profile/streak.svg" alt="Streak" width="48%" />
+  <img src="./profile/stats.svg" alt="Stats" width="48%" />
+</p>
+<p align="center">
+  <img src="./profile/top-langs.svg" alt="Top Languages" width="60%" />
+</p>
 ---
 
 ## 📫 Contacto
